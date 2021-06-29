@@ -12,6 +12,10 @@ public class AulaTeste {
 		System.out.println("Digite um numero");
 		int x =  sc.nextInt();
 		System.out.println("O numero é: "+x);
+		int y = x+5;
+		System.out.println("O numero é: "+y);
+		
+		
 				
 		
 		
